@@ -33,7 +33,7 @@ samp_collect_device: Niskin bottle
 samp_size: 1000
 samp_size_unit: mL
 samp_store_temp: -80
-samp_store_sol: DNA/RNA Shield
+samp_store_sol: not applicable
 samp_mat_process: Samples were filtered using a peristaltic pump (pore size 0.45 micrometers).
 filter_passive_active_0_1:  1
 prefilter_material: not applicable
