@@ -78,9 +78,10 @@ filter_material: polyethersulfone
 
 #### Internal Protocols
 
-| PROTOCOL NAME | LINK  | VERSION | RELEASE DATE|
+| PROTOCOL NAME | LINK  | VERSION | RELEASE DATE |
 | ------------- | ------------- | ------------- | ------------- |
 | AOML 'Omics Protocols | https://github.com/aomlomics/protocols | not applicable | ongoing |
+| NOAA/AOML Water Sampling Protocol using Sterivex (Beads) | https://github.com/aomlomics/AOML_eDNA_Sampling_Protocol_Sterivex_Beads | 1.2.3 | 2026-01-16 |
 
 #### External Protocols
 
@@ -103,6 +104,7 @@ filter_material: polyethersulfone
 | 1.2.1 | 2025-04-22 | Corrected storage temperature |
 | 1.2.2 | 2025-12-15 | Updated YAML front matter |
 | 1.2.3 | 2026-01-16 | Updated YAML front matter |
+| 1.3.0 | 2026-03-18 | Copied and modified from NOAA/AOML Water Sampling Protocol using Sterivex (Beads) |
 
 ### Acronyms and Abbreviations
 
